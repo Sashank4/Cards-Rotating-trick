@@ -6,6 +6,18 @@
   box-sizing: border-box;
 }
 
+.name{
+  position: absolute;
+  top: 50px;
+  color: white;
+  font-size: 20px;
+}
+
+.name a{
+  text-decoration: none;
+  color: rgb(238, 56, 56);
+}
+
 body {
   min-height: 100vh;
   display: flex;
